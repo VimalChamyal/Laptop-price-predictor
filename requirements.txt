@@ -1,8 +1,2 @@
 numpy==1.21.5
 streamlit==1.20.0
-pip
-scikit-learn
-pandas
-sklearn
-seaborn
-pickle
